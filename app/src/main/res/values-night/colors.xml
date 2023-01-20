@@ -21,7 +21,7 @@
 <resources>
     <color name="textColor">#FFFFFF</color>
     <color name="textColorDefault">#FFFFFF</color>
-    <color name="textColorChecked">#33FFFFFF</color>
+    <color name="textColorChecked">#66FFFFFF</color>
     <color name="colorListItemBackground">#000000</color>
     <color name="colorBackgroundLight">#212121</color>
     <color name="colorBackground">#000000</color>
